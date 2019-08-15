@@ -1,49 +1,5 @@
-body{
-    text-align: center;
-}
-
-.topNav{
-    justify-content: space-between;
-    
-}
-
-.navText a{
-
-    
-    text-decoration: none;
-    font-size: 50px;
-    
-}
-    
 
 
 
-.gameSec{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-
-}
 
 
-.gameBox{
-    display:flex;
-    flex-direction: column;
-    border:2px solid green;
-    background-color:yellowgreen;
-    height: 45%;
-    width: 45%;
-    
-}
-
-.gameImg{
-    margin:auto;
-    padding-top:1em;
-    height: 10em;
-}
-    
-
-.gameDis{
-    display: flex;
-    flex-direction: column;
-}
